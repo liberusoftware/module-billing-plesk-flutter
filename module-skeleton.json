@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-plesk-flutter",
+  "capabilityKey": "liberusoftware/billing-plesk",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_plesk_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-plesk.md",
+  "presentationPlan": "projects/billing/flutter/module-billing-plesk.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
